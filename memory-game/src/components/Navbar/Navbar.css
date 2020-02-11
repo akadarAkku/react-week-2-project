@@ -1,0 +1,81 @@
+.bg-light {
+  background: #1db0ff !important;
+  color: white;
+}
+
+nav.navbar.navbar-default {
+    margin-bottom: 0;
+  }
+  
+  
+  li {
+    margin-left: 10px;
+    font-size: 28px;
+  }
+
+  .myname{
+    color: lightslategray;
+    position: absolute;
+    right: 240px;
+    left: 200px;
+    top: 40px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .restart{
+  position: absolute;
+  right: 300px;
+  left: 850px;
+  top: 100px;
+
+  }
+
+  .losses{
+    position: absolute;
+    right: 0px;
+    left: 1000px;
+  width: 200px;
+  height: 58px;
+  border: 2px solid rebeccapurple;
+  color: black;
+
+  }
+
+  .wrongGuesses{
+  position: absolute;
+  left: 10px;
+  width: 190px;
+  top: 55px;
+  color: black;
+  
+
+  }
+
+  .instruction{
+    position: absolute;
+    right: 240px;
+    left: 200px;
+    top: 10px;
+  }
+
+  .score{
+  position: absolute;
+  left: -8px;
+  width: 200px;
+  height: 58px;
+  border: 2px solid rebeccapurple;
+  color: black;
+
+  }
+  
+  .wins{
+  position: absolute;
+  right: 0px;
+  left: 1000px;
+  top: 50px;
+  width: 200px;
+  height: 58px;
+  color: black;
+  
+  }
