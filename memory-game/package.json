@@ -2,7 +2,7 @@
   "name": "memory-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akadarAkku.github.io/react-memory-app",
+  "homepage": "http://akadarAkku.github.io/react-memory-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
